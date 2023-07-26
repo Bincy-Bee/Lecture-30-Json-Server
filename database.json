@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "name": "ugpatel",
+      "password": "vbshkjvdfksvfsfsf",
+      "email": "ggpatel@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "bhavinpatel",
+      "password": "bhavin777777",
+      "email": "bhavin.712@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "mohpatel",
+      "password": "mohini712712712",
+      "email": "mohmoh.712@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "viralpatel",
+      "password": "virvirvirpat",
+      "email": "bunty@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "ggpatel",
+      "password": "vbshkjvdfksvfsfsf",
+      "email": "ggpatel@gmail.com",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "productName": "iphone 14 Pro",
+      "ProductCategory": "Apple iphone 14 pro 256gb silver",
+      "price": "Rs.59,000",
+      "id": 1
+    },
+    {
+      "productName": "MAcbook Pro 13inch",
+      "ProductCategory": "Apple MAcbook Pro grey 8GB|256gb",
+      "price": "Rs.96,000",
+      "id": 2
+    },
+    {
+      "productName": "Nikon Camera g712",
+      "ProductCategory": "Nikon Camera Auto Foval Length - 256",
+      "price": "Rs.111,000",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "mohini",
+      "password": "monibhavin715",
+      "userid": "712151",
+      "id": 1
+    },
+    {
+      "name": "bincybee",
+      "password": "bhavin150191",
+      "userid": "151515",
+      "id": 2
+    }
+  ],
+  "cart": [
+    {
+      "item": "safaset",
+      "category": "Wooden Homedecor",
+      "price": "15000",
+      "id": 1
+    }
+  ]
+}
